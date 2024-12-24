@@ -1,0 +1,1 @@
+str_device_default_name = 'Click to set name'
